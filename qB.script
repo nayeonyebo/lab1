@@ -1,0 +1,27 @@
+Script started on 2017年03月13日 (週一) 01時41分16秒
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1 $[00m whoami.[K; pwd
+pd2vm
+/home/pd2vm/lab1
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1 $[00m git config -l
+user.email=kyle041498@gmail.com
+user.name=nayeonyebo
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=https://github.com/nayeonyebo/lab1.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+branch.master.remote=origin
+branch.master.merge=refs/heads/master
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1 $[00m git clone https://github.com/nayeonyebo/lab1.git [A
+fatal: destination path 'lab1' already exists and is not an empty directory.
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1 $[00m g[Kls
+[0m[01;34mlab1[0m  lab1.script  [01;32mqB[0m  qB.cpp  qB.script  README.md
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1 $[00m rm qB
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1 $[00m g[Krm qB[3Plsgit clone https://github.com/nayeonyebo/lab1.git [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Config -l[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[2Pwhoami; pwd[7P./qBg++ -o qB qB.cpp
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1 $[00m g++ -o qB qB.cpprm qB[K[3Plsgit clone https://github.com/nayeonyebo/lab1.git [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Config -l[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[2Pwhoami; pwd[7P./qB
+22
+221134175226134020105168421[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1 $[00m 
+Script done on 2017年03月13日 (週一) 01時46分35秒
